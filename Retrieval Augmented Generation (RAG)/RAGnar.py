@@ -14,7 +14,7 @@ from PyQt5.QtGui import QFont, QPalette, QColor
 
 # OpenAI API setup
 openai.api_key = "<insert your open-ai api key>"
-MODEL = "gpt-4o-mini"  # Example model; replace with an appropriate model
+MODEL = "gpt-4o-mini"  
 
 # Load retriever model
 retriever_model = SentenceTransformer('all-MiniLM-L6-v2')
