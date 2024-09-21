@@ -16,6 +16,9 @@
 - **Save and Load Conversations**: Save your current chatbot session and load it back to continue where you left off.
 - **Auto-Completion**: Get auto-suggestions based on previous inputs, enhancing user experience and speeding up conversation flow.
 
+![image](https://github.com/user-attachments/assets/00280859-9ddf-4223-ae76-f4cc1a09b554)
+
+
 ## Installation
 
 1. **Clone the Repository:**
