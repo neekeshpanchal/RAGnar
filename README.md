@@ -1,6 +1,6 @@
 # RAGnar
 
-**RAGnar** is an interactive chatbot application that leverages **GPT-4o-mini** and **FAISS** for PDF-based knowledge retrieval, **SentenceTransformers** for embedding generation, and a user-friendly interface built using **PyQt5**. This project is named in memory of **Ragnar**, a playful and brave German shepherd who loved to bark and eat meat sticks.
+**RAGnar** is an interactive chatbot application that leverages **GPT-4o-mini** and **FAISS** for PDF-based knowledge retrieval, **SentenceTransformers** for embedding generation, and a user-friendly interface built using **PyQt5**. This project is named in memory of **Ragnar**, a playful and brave German shepherd that warmed the hearts of many.
 
 ![Ragnar Image](https://github.com/user-attachments/assets/58c2fe7f-3e6c-4b4f-ae99-da1114d172b8)
 
