@@ -33,7 +33,8 @@
 - **Dynamic Knowledge Base and Database Loading**: Load and manage your knowledge bases and databases in real-time without restarting the application.
 - **Collapsible Side Panel**: Access mode selection and resource loading options through a sleek, collapsible side panel.
 
-![Chatbot Interface](https://github.com/user-attachments/assets/00280859-9ddf-4223-ae76-f4cc1a09b554)
+![image](https://github.com/user-attachments/assets/249a7c42-522a-4017-a012-03965baab12e)
+
 
 ## Installation
 
@@ -84,15 +85,24 @@
 
    Click on the **"Semantic Search"** button in the side panel.
 
+![image](https://github.com/user-attachments/assets/72418b30-2010-40d2-a884-35ec9d2cebed)
+
+
 3. **Load Knowledge Base:**
 
    - Click **"Select Knowledge Base"** to choose a directory containing your **PDF**, **DOCX**, or **CSV** files.
    - The chatbot will process and index these documents for retrieval.
 
+![image](https://github.com/user-attachments/assets/f97fca43-c6ea-4d05-a340-7264aa0bce84)
+
+
 4. **Interact with the Chatbot:**
 
    - Enter your queries in the text input box and click **"Send"**.
    - The chatbot will retrieve relevant information from your knowledge base and generate contextual responses.
+
+![image](https://github.com/user-attachments/assets/9e1ce6dc-96ff-4509-93ed-5ae6f3bbf241)
+
 
 ### Text-to-SQL Mode
 
@@ -100,19 +110,33 @@
 
    Click on the **"Text-to-SQL"** button in the side panel.
 
+![image](https://github.com/user-attachments/assets/b48117bc-7e56-463b-a99d-c3f7a4e382bb)
+
+
 2. **Load Database Schema:**
 
    - Click **"Select Database"** to choose your SQLite database file (`.db` or `.sqlite`).
    - The application will load the database schema for reference.
 
+![image](https://github.com/user-attachments/assets/fff5112d-71fe-4784-8ba2-ff6426edc9c2)
+
+
 3. **Ask Natural Language Queries:**
 
    - Enter your question in natural language and click **"Send"**.
    - The chatbot will convert your query into an SQL command, execute it against the loaded database, and display the results.
+![image](https://github.com/user-attachments/assets/03eef0b1-3b3c-4683-90e4-8155048a9755)
+
+
 
 4. **General Questions:**
 
    - You can also ask general questions not related to SQL. The chatbot will respond accordingly without attempting to execute any SQL commands.
+
+![image](https://github.com/user-attachments/assets/64e12b44-d9be-418c-a4b0-b2628bbebd3f)
+
+![image](https://github.com/user-attachments/assets/bed6dfd5-cc28-40c5-8770-bed98bbf1ae5)
+
 
 ## Future Enhancements
 
