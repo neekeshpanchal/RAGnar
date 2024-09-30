@@ -125,6 +125,7 @@
 
    - Enter your question in natural language and click **"Send"**.
    - The chatbot will convert your query into an SQL command, execute it against the loaded database, and display the results.
+
 ![image](https://github.com/user-attachments/assets/03eef0b1-3b3c-4683-90e4-8155048a9755)
 
 ![image](https://github.com/user-attachments/assets/bed6dfd5-cc28-40c5-8770-bed98bbf1ae5)
