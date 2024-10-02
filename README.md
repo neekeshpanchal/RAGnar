@@ -1,8 +1,8 @@
 # RAGnar
 
-**RAGnar** is an interactive chatbot application that combines the power of **OpenAI's GPT-4**, **FAISS** for efficient document retrieval, and **SentenceTransformers** for embedding generation. Built with a user-friendly interface using **PyQt5**, RAGnar allows you to engage in meaningful conversations, perform semantic searches across your documents, and convert natural language queries into SQL commands. This project is named in memory of **Ragnar**, a playful and brave German Shepherd who touched many hearts.
+**RAGnar** is an interactive chatbot application that combines the power of **OpenAI's GPT-4**, **FAISS** for efficient document retrieval, and **SentenceTransformers** for embedding generation. This project is named in memory of **Ragnar**, a playful and brave German Shepherd who touched many hearts.
 
-![Ragnar Image](https://github.com/user-attachments/assets/58c2fe7f-3e6c-4b4f-ae99-da1114d172b8)
+**REX (Response EXplainablity)** is a built-in interface which allows for reasoning transparency and the ability to view which files were chosen by the retrieval model. 
 
 ---
 
