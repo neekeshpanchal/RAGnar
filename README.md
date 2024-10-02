@@ -2,7 +2,7 @@
 
 **RAGnar** is an interactive chatbot application that combines the power of **OpenAI's GPT-4**, **FAISS** for efficient document retrieval, and **SentenceTransformers** for embedding generation. This project is named in memory of **Ragnar**, a playful and brave German Shepherd who touched many hearts.
 
-**REX (Response EXplainablity)** is a built-in interface which allows for reasoning transparency and the ability to view which files were chosen by the retrieval model. 
+**REX (Response EXplainablity)** is a built-in interface which allows for reasoning transparency and the ability to view which files were chosen by the retrieval model. This interface is named in memory of **Rex**, a protective and strong-hearted German Shepherd who is missed by many.
 
 ---
 
