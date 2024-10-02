@@ -33,7 +33,8 @@
 - **Dynamic Knowledge Base and Database Loading**: Load and manage your knowledge bases and databases in real-time without restarting the application.
 - **Collapsible Side Panel**: Access mode selection and resource loading options through a sleek, collapsible side panel.
 
-![image](https://github.com/user-attachments/assets/249a7c42-522a-4017-a012-03965baab12e)
+
+![image](https://github.com/user-attachments/assets/4a7695c3-cac8-4cf6-9f04-32c7864d26fa)
 
 
 ## Installation
@@ -53,12 +54,12 @@
 
 3. **Set Up OpenAI API Key:**
 
-    Replace `"YOUR_OPENAI_API_KEY"` in the `ragna_chatbot.py` file with your actual OpenAI API key.
+    Replace `"YOUR_OPENAI_API_KEY"` in the `ragnar_chatbot.py` file with your actual OpenAI API key.
 
 4. **Run the Application:**
 
     ```bash
-    python ragna_chatbot.py
+    python ragnar_chatbot.py
     ```
 
 ## Prerequisites
@@ -78,22 +79,22 @@
 1. **Launch the Application:**
 
    ```bash
-   python ragna_chatbot.py
+   python ragnar_chatbot.py
    ```
 
 2. **Select Semantic Search Mode:**
 
    Click on the **"Semantic Search"** button in the side panel.
 
-![image](https://github.com/user-attachments/assets/72418b30-2010-40d2-a884-35ec9d2cebed)
+![image](https://github.com/user-attachments/assets/c40e7c18-d464-4213-a1e2-836c330cf3ee)
 
 
 3. **Load Knowledge Base:**
 
-   - Click **"Select Knowledge Base"** to choose a directory containing your **PDF**, **DOCX**, or **CSV** files.
+   - Click **"Select Knowledge Base"** to select a **folder** containing your **PDF**, **DOCX**, or **CSV** files.
    - The chatbot will process and index these documents for retrieval.
 
-![image](https://github.com/user-attachments/assets/f97fca43-c6ea-4d05-a340-7264aa0bce84)
+![image](https://github.com/user-attachments/assets/c9944aff-3a1a-43b7-9dfc-428479f679e2)
 
 
 4. **Interact with the Chatbot:**
@@ -101,7 +102,7 @@
    - Enter your queries in the text input box and click **"Send"**.
    - The chatbot will retrieve relevant information from your knowledge base and generate contextual responses.
 
-![image](https://github.com/user-attachments/assets/9e1ce6dc-96ff-4509-93ed-5ae6f3bbf241)
+![image](https://github.com/user-attachments/assets/972ef6c8-2232-4a83-a085-df76e0a725d0)
 
 
 ### Text-to-SQL Mode
@@ -110,7 +111,7 @@
 
    Click on the **"Text-to-SQL"** button in the side panel.
 
-![image](https://github.com/user-attachments/assets/b48117bc-7e56-463b-a99d-c3f7a4e382bb)
+![image](https://github.com/user-attachments/assets/59d36bda-46a7-4348-9621-360bd0233575)
 
 
 2. **Load Database Schema:**
@@ -118,25 +119,25 @@
    - Click **"Select Database"** to choose your SQLite database file (`.db` or `.sqlite`).
    - The application will load the database schema for reference.
 
-![image](https://github.com/user-attachments/assets/fff5112d-71fe-4784-8ba2-ff6426edc9c2)
+![image](https://github.com/user-attachments/assets/7eacf36b-6da3-443f-89f0-5507be336fcf)
 
 
 3. **Ask Natural Language Queries:**
 
    - Enter your question in natural language and click **"Send"**.
-   - The chatbot will convert your query into an SQL command, execute it against the loaded database, and display the results.
+   - The chatbot can create SQL queries for you, but can also describe the data and build code to leverage it as well.
 
-![image](https://github.com/user-attachments/assets/03eef0b1-3b3c-4683-90e4-8155048a9755)
-
-![image](https://github.com/user-attachments/assets/bed6dfd5-cc28-40c5-8770-bed98bbf1ae5)
-
-4. **General Questions:**
-
-   - You can also ask general questions not related to SQL. The chatbot will respond accordingly without attempting to execute any SQL commands.
-
-![image](https://github.com/user-attachments/assets/64e12b44-d9be-418c-a4b0-b2628bbebd3f)
+![image](https://github.com/user-attachments/assets/f287984b-ff89-4cf4-b265-36e93fa6c9e3)
 
 
+4. **REX - Response EXplainablity**
+
+   - After querying using semantic search or Text-to-SQL capabilities, User's can click the 'REX' button to access context relevant for reasoning and references.
+
+
+![image](https://github.com/user-attachments/assets/f78d845d-e975-4eb3-9f38-af3405c2164f)
+
+![image](https://github.com/user-attachments/assets/8f948fd3-18cf-4255-b8ef-534903a87af5)
 
 
 ## Future Enhancements
