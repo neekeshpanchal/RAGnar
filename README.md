@@ -1,3 +1,13 @@
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Usage](#usage)
+  - [Semantic Search Mode](#semantic-search-mode)
+  - [Text-to-SQL Mode](#text-to-sql-mode)
+- [Future Enhancements](#future-enhancements)
+- [Acknowledgements](#acknowledgements)
+
 # RAGnar  
 is an interactive knowledge base search application that combines **OpenAI's Models**, **FAISS** for efficient document retrieval, and **SentenceTransformers** for embedding generation. This platform supports Text-to-SQL and semantic search capabilities across .DB, .SQLITE, .CSV, .PDF, and .DOCX file types. This project is named in memory of **Ragnar**, a playful and brave German Shepherd who touched many hearts.
 
@@ -7,23 +17,6 @@ is an interactive knowledge base search application that combines **OpenAI's Mod
 is a built-in interface which allows for reasoning transparency and the ability to view which files were chosen by the retrieval model. This interface is named in memory of **Rex**, a protective and strong-hearted German Shepherd who is missed by many.
 
 ![image](https://github.com/user-attachments/assets/f78d845d-e975-4eb3-9f38-af3405c2164f)
-
----
-
-**Author**: Neekesh Panchal, Computer Science and Neuroscience Graduate, September 2024
-
----
-
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-  - [Semantic Search Mode](#semantic-search-mode)
-  - [Text-to-SQL Mode](#text-to-sql-mode)
-- [Future Enhancements](#future-enhancements)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -157,6 +150,11 @@ is a built-in interface which allows for reasoning transparency and the ability 
 
 ---
 
-**Rest in Peace, Ragnar 🐾**
+**Rest in Peace, Ragnar & Rex 🐾**
 
-This project is dedicated to the memory of Ragnar, whose spirit of curiosity and companionship inspired its creation.
+---
+
+**Author**: Neekesh Panchal, Computer Science and Neuroscience Graduate, September 2024
+
+---
+
