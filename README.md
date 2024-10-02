@@ -1,4 +1,5 @@
-# RAGnar
+![image](https://github.com/user-attachments/assets/20756793-7d41-4e68-b6b4-bf7b646d01b7)
+
 
 **RAGnar** is an interactive chatbot application that combines the power of **OpenAI's GPT-4**, **FAISS** for efficient document retrieval, and **SentenceTransformers** for embedding generation. This project is named in memory of **Ragnar**, a playful and brave German Shepherd who touched many hearts.
 
